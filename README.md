@@ -1,2 +1,2 @@
 # path_finder_with_obstacles
-As part of a technology experience, I implemented the breadth-first search algorithm in Python to traverse generated mazes that have randomly occurring obstacles with the aim being to replicate the creation of the shortest possible routes for delivery vehicles with multiple stops, specifically for those operating under Amazon.
+As part of a technology internship experience, I implemented the breadth first search algorithm in Python to traverse generated mazes that have randomly occurring obstacles with the aim being to replicate the creation of the shortest possible routes for delivery vehicles with multiple stops, specifically for those operating under Amazon.
